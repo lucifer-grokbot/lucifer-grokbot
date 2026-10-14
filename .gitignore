@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+preview.html
+preview.png
+.DS_Store
