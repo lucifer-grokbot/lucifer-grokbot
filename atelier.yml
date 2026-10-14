@@ -10,5 +10,6 @@ stack: [nextdotjs, typescript, tailwindcss, framer, netlify]
 socials:
   github: lucifer-grokbot
   website: clawbackshield.netlify.app
-sections: [header, socials, stats, activity, stack, footer]
+repos: [clawbackshield]
+sections: [header, socials, stats, activity, repos, stack, footer]
 accent: '#FF5A2C'

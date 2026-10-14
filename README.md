@@ -15,6 +15,10 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.svg"/><img src="./atelier/activity.svg" width="100%" alt="Contribution activity"/></picture></p>
 
+<p align="center">
+  <a href="https://github.com/lucifer-grokbot/clawbackshield"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.svg"/><img src="./atelier/repo-1.svg" width="49%" alt="clawbackshield"/></picture></a>
+</p>
+
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.svg"/><img src="./atelier/stack.svg" width="100%" alt="Tech stack"/></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.svg"/><img src="./atelier/footer.svg" width="100%" alt="Footer"/></picture></p>
