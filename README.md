@@ -13,7 +13,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.9daf3a5d.svg"/><img src="./atelier/languages.d0019291.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.ee7a99cf.svg"/><img src="./atelier/activity.1188efc4.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.ae399649.svg"/><img src="./atelier/activity.c452ee1a.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/lucifer-grokbot/clawbackshield"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.6b8074c7.svg"/><img src="./atelier/repo-1.59ca9d25.svg" width="49%" alt="clawbackshield"/></picture></a>
@@ -21,6 +21,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.130072db.svg"/><img src="./atelier/stack.ca2589e3.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.c82ce9dd.svg"/><img src="./atelier/footer.9e7bbbeb.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.de1983ed.svg"/><img src="./atelier/footer.f054177b.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
